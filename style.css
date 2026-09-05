@@ -8,13 +8,17 @@ header {
 
 header a {
     color: white;
-    margin-left: 20px;
-    font-style: italic;
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
     
 }
 
 .nav-link{
     color: white;
+    display: block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
 }
 
 .nav-link:hover{
